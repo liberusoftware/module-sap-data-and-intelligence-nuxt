@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-data-and-intelligence-nuxt",
+  "capabilityKey": "planned:sap:data-and-intelligence",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-data-and-intelligence-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/data-and-intelligence.md",
+  "presentationPlan": "projects/sap/nuxt/data-and-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
